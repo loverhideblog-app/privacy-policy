@@ -1,10 +1,6 @@
 
 <html lang="vi">
-<head>
-  <meta charset="UTF-8">
-  <title>Chính sách quyền riêng tư - Loverhide</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+
 <body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px;">
 
 <h1>Chính sách quyền riêng tư</h1>
